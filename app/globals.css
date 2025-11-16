@@ -1,0 +1,7 @@
+
+
+@media (max-width: 640px) { /* sm screen */
+  * {
+    font-size: 14px; /* Tailwind এর text-sm এর সমান */
+  }
+}
