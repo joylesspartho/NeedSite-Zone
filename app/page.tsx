@@ -24,13 +24,14 @@ export default function Home() {
       <Navbar />
 
       <div className="hero-section">
+        
         {/* Background animated dots */}
         <div className="animated-bg"></div>
 
-        <div className=" py-5">
-          <div className="row container align-items-center">
+        <div className=" py-5 container">
+          <div className="row  align-items-center">
             {/* Left Column: Text + Button */}
-            <div className="col-12 col-md-12 col-lg-7 text-center text-md-left mb-4 mb-md-0">
+            <div className="col-12 col-md-12 col-lg text-center text-md-left mb-4 mb-md-0">
               <h1 className="display-4 fw-bold text-white">
                 We Build Beautiful Websites
               </h1>
@@ -43,7 +44,7 @@ export default function Home() {
             </div>
 
             {/* Right Column: Lottie Animation */}
-            <div className="col-12 col-lg-5  text-center d-none d-lg-block">
+            <div className="col-12 col-lg  text-center d-none d-lg-block ">
               <Player
                 className="lottieimg"
                 autoplay

@@ -10,7 +10,7 @@ export default function Footer() {
                 <li>
                   <b>Address:</b>
                 </li>
-                <li>West Shewrapara, Mirpur, Dhaka-1216</li>
+                <li>Joyertek, Konabari, Gazipur, Dhaka-1700</li>
               </ul>
             </div>
 

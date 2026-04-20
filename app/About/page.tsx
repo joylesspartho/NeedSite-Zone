@@ -11,7 +11,7 @@ export default function About() {
       <h1 className="text-center pt-4 fw-bold lead text-decoration-underline">
         WHO WE ARE
       </h1>
-      <p className="p-3">
+      <p className="p-3 container">
         NeedSite Zone is a modern web design and development agency focused on
         delivering smart, secure, and responsive digital solutions. We believe
         in building more than just websites — we create platforms that elevate
